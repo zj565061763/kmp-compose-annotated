@@ -7,5 +7,5 @@ Compose Multiplatform annotated library.
 # Gradle
 
 ```kotlin
-implementation("io.github.zj565061763.kmp:compose-annotated:1.0.0")
+implementation("io.github.zj565061763.kmp:compose-annotated:1.1.0")
 ```
